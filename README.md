@@ -50,3 +50,7 @@ npm run front
 ```
 
 Ouvrir une page sur [http://localhost:4200/]
+
+## Auteurs
+
+Baptiste DUMONT, Damien RADATOVIC, Manuel NAVIS
